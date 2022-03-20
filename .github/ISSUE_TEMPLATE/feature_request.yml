@@ -1,0 +1,47 @@
+name: "✨ feature request"
+description: "Suggest an idea for this project or ask for additional functionality"
+title: "[feat]: <title>"
+labels:
+  - "feature request"
+assignees:
+  - "engineering"
+body:
+  - type: markdown
+    attributes:
+      value: Thanks for taking the time to fill out this feature report! ~*tem. team*
+  - type: checkboxes
+    id: googledit
+    attributes:
+      label: googled it.
+      description: Please search to see if an issue already exists for a similar feature.
+      options:
+        - label: I have searched the existing issues
+          required: true
+  - type: textarea
+    id: feature
+    attributes:
+      label: feature.
+      description: A clear and concise description of what the missing feature is.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: expected behavior.
+      description: A clear and concise description of what you expect to happen.
+    validations:
+      required: false
+  - type: textarea
+    id: ideal
+    attributes:
+      label: ideal solution.
+      description: What an ideal solution to your problem would look like.
+    validations:
+      required: false
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: alternatives.
+      description: Explain what alternative solutions or features you've considered.
+    validations:
+      required: false
