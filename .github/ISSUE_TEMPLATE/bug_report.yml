@@ -1,6 +1,6 @@
 name: "🐞 bug report"
 description: "Create a report to improve this project"
-title: "[bug]: <title>"
+title: "[bug]: "
 labels:
   - "bug"
 assignees:
@@ -49,11 +49,11 @@ body:
       label: environment.
       description: |
         examples:
-          - **OS**: Ubuntu 20.04
-          - **Release**: v1.0.0
+          * **OS**: Ubuntu 20.04
+          * **Release**: v1.0.0
       value: |
-        - OS:
-        - Release:
+        * **OS**:
+        * **Release**:
       render: markdown
     validations:
       required: false

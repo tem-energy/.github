@@ -1,6 +1,6 @@
 name: "✨ feature request"
 description: "Suggest an idea for this project or ask for additional functionality"
-title: "[feat]: <title>"
+title: "[feat]: "
 labels:
   - "feature request"
 assignees:
