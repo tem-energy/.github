@@ -1,8 +1,0 @@
-# Semantic Pull-Requests configuration.
-#
-# Enforces semantic PR/commit naming conventions in GitHub.
-# https://github.com/Ezard/semantic-prs
----
-enabled: true
-titleOnly: true
-targetUrl: https://www.notion.so/tem-energy/1fe74562444b47fdae0a792e5127d32d

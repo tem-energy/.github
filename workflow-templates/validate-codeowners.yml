@@ -1,0 +1,17 @@
+---
+name: Validate CODEOWNERS
+on:
+  pull_request:
+    paths:
+      - .github/CODEOWNERS
+  schedule:
+    # Runs at 08:00 UTC every 1st day of a month.
+    - cron: "0 8 1 * *"
+
+jobs:
+  validate-codeowners:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: tem-energy/cicd/actions/codeowners-validator@main
+        with:
+          github_app_private_key: "${{ secrets.CODEOWNERS_VALIDATOR_PRIVATE_KEY }}"
