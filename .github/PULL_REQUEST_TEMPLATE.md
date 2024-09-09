@@ -11,6 +11,13 @@
 * describe why these changes were made and how they address the problem.
 -->
 
+## dependencies.
+<!--
+* investigate impact this change might have on other parts of the system.
+* if possible, make changes backward-compatible.
+* list impacted areas here.
+-->
+
 ## references.
 <!--
 * link to any supporting GitHub issues or Notion pages.
