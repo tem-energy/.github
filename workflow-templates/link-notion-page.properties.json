@@ -1,5 +1,0 @@
-{
-    "name": "Link pull-request to Notion",
-    "description": "Create a link in Notion database to an open pull-request.",
-    "iconName": "link-notion-page"
-}

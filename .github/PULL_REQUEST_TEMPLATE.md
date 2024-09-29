@@ -1,14 +1,14 @@
 ## what.
 <!--
-* overview of what changed as a result of these commits.
-* use bullet points to be concise and to the point.
-* use plain simple English.
+* Overview of what changed as a result of these commits.
+* Use bullet points to be concise and to the point.
+* Use plain simple English.
 -->
 
 ## why.
 <!--
-* provide the justifications for the changes, e.g. business case.
-* describe why these changes were made and how they address the problem.
+* Provide the justifications for the changes, e.g. business case.
+* Describe why these changes were made and how they address the problem.
 -->
 
 ## dependencies.
@@ -20,7 +20,8 @@
 
 ## references.
 <!--
-* link to any supporting GitHub issues or Notion pages.
-* link to documentation to add context, e.g. StackOverflow or framework docs.
-* use `closes #123`, if this PR closes a GitHub issue `#123`.
+* Link to any supporting GitHub issues or Notion pages.
+* Link to documentation to add context, e.g. StackOverflow or framework docs.
+* Use `closes #123`, if this PR closes a GitHub issue `#123`.
+* You can also resolve Sentry issues by including `fixes <SENTRY-SHORT-ID>` in the description.
 -->
