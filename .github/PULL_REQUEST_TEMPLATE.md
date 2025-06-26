@@ -25,3 +25,8 @@
 * Use `closes #123`, if this PR closes a GitHub issue `#123`.
 * You can also resolve Sentry issues by including `fixes <SENTRY-SHORT-ID>` in the description.
 -->
+
+## platform diagrams.
+<!--
+* Do any Platform Diagrams (https://app.icepanel.io) need to be updated?
+-->
