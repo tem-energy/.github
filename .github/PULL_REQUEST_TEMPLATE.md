@@ -28,5 +28,5 @@
 
 ## platform diagrams.
 <!--
-* Do any ICE panel diagrams need to be updated?
+* Do any Platform Diagrams (https://app.icepanel.io) need to be updated?
 -->
