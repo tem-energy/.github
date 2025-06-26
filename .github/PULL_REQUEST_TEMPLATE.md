@@ -26,7 +26,7 @@
 * You can also resolve Sentry issues by including `fixes <SENTRY-SHORT-ID>` in the description.
 -->
 
-## diagrams.
+## platform diagrams.
 <!--
 * Do any ICE panel diagrams need to be updated?
 -->
