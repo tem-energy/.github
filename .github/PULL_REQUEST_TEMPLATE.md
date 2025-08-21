@@ -1,4 +1,4 @@
-## what.
+## 📝 What
 
 <!--
 * Overview of what changed as a result of these commits.
@@ -6,7 +6,7 @@
 * Use plain simple English.
 -->
 
-## why.
+## ❓ Why
 
 <!--
 * Provide the justifications for the changes, e.g. business case.
@@ -30,7 +30,7 @@ to indicate you considered it. Add notes if helpful.
 
 <!-- Add reasoning if no tests were needed, or share logs/screenshots if manual testing was done. -->
 
-## dependencies.
+## 🔗 Dependencies
 
 <!--
 * investigate impact this change might have on other parts of the system.
@@ -38,7 +38,7 @@ to indicate you considered it. Add notes if helpful.
 * list impacted areas here.
 -->
 
-## references.
+## 📚 References
 
 <!--
 * Link to any supporting GitHub issues or Notion pages.
@@ -47,8 +47,18 @@ to indicate you considered it. Add notes if helpful.
 * You can also resolve Sentry issues by including `fixes <SENTRY-SHORT-ID>` in the description.
 -->
 
-## platform diagrams.
+## 🗺️ Platform Diagrams
 
 <!--
-* Do any Platform Diagrams (https://app.icepanel.io) need to be updated?
+Indicate whether any Platform Diagrams (https://app.icepanel.io) were updated.
+-->
+
+- [ ] Yes, Platform Diagrams updated where needed
+- [ ] No changes required, existing diagrams are sufficient
+
+**Notes / Evidence (optional):**
+
+<!--
+Example: No diagrams required for this change.
+Updated sequence diagram attached for new API flow.
 -->
