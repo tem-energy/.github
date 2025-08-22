@@ -23,7 +23,7 @@ to indicate you considered it. Add notes if helpful.
 
 - [ ] Unit tests added/updated (where needed)
 - [ ] Integration tests added/updated (where needed)
-- [ ] Automated QA test case added/updated (where needed)
+- [ ] Automated QA test case requested or notified for update (where needed)
 - [ ] Manual testing performed (where needed)
 
 **Notes / Evidence (optional):**
