@@ -28,7 +28,7 @@ to indicate you considered it. Add notes if helpful.
 
 **Notes / Evidence (optional):**
 
-<!-- Add reasoning if no tests were needed, or share logs/screenshots if manual testing was done. -->
+<!-- If testing was not required, provide the reason. If manual testing was conducted, include logs/screenshots along with a description of the testing steps performed. -->
 
 ## 🔗 Dependencies
 
