@@ -40,7 +40,7 @@ to indicate you considered it. Add notes if helpful.
 
 **API Changes:**
 - [ ] I have not made any changes to the API
-- [ ] I have changed the API and have opened PRs to regenerate the API bindings in Portal and CR below.
+- [ ] I have changed the API and opened PRs to regenerate the API bindings in Portal and CR that I will link to below.
 Portal PR:
 Control Room PR:
 
