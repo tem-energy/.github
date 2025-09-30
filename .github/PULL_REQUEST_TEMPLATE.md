@@ -31,11 +31,13 @@ to indicate you considered it. Add notes if helpful.
 <!-- If testing was not required, provide the reason. If manual testing was conducted, include logs/screenshots along with a description of the testing steps performed. -->
 
 ## 🔗 Dependencies
+
 <!--
 * investigate impact this change might have on other parts of the system.
 * if possible, make changes backward-compatible.
 * list impacted areas here.
 -->
+
 **API Changes:**
 - [ ] I have not made any changes to the API
 - [ ] I have changed the API and have opened PRs to regenerate the API bindings in Portal and CR below.
