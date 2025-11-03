@@ -1,28 +1,34 @@
 ## 📝 What
-
+<todo>
 
 ## ❓ Why
-
+<todo>
 
 ## 🧪 Testing
 - [ ] Unit tests added/updated (where needed)
 - [ ] Integration tests added/updated (where needed)
 - [ ] Automated QA test case requested or notified for update (where needed)
 - [ ] Manual testing performed (where needed)
+- [ ] No need to add/update/remove tests
 
 **Notes / Evidence (optional):**
 
 ## 🔗 Dependencies
-
+- [ ] Yes, there are some dependencies (listed below)
+- [ ] No dependencies
 
 **API Changes:**
 - [ ] I have not made any changes to the API
 - [ ] I have changed the API and opened PRs to regenerate the API bindings in Portal and CR that I will link to below.
-Portal PR:
-Control Room PR:
+Portal PR: <todo>
+Control Room PR: <todo>
+
+**Notes / Evidence (optional):**
 
 ## 📚 References
+<todo>
 
+**Notes / Evidence (optional):**
 
 ## 🗺️ Platform Diagrams
 - [ ] Yes, Platform Diagrams updated where needed
