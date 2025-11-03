@@ -1,5 +1,0 @@
-{
-    "name": "Validate CODEOWNERS",
-    "description": "Run standard set of checks against a repository CODEOWNERS file.",
-    "iconName": "validate-codeowners"
-}
