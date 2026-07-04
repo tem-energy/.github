@@ -1,8 +1,15 @@
-# .github
+<!-- markdownlint-disable -->
+<div align="center">
+  <img alt="tem-energy logo" src="https://cdn.tem.energy/logo/tem-lockup-red-h.svg" width="140"><br>
+</div>
 
 ---
 
-*Community health files for the @tem-energy organization*
+# .github
+
+<!-- markdownlint-restore -->
+
+Community health files for the @tem-energy organization.
 
 ---
 
