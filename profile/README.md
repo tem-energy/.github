@@ -1,17 +1,21 @@
 <!-- markdownlint-disable -->
 <div align="center">
   <a href="https://www.tem.energy" title="tem. landing page" target="_blank">
-    <img src="https://cdn.tem.energy/tem-logo.png" alt="tem. logo" width="100">
+    <img alt="tem-energy logo" src="https://cdn.tem.energy/logo/tem-lockup-red-h.svg" width="140">
   </a>
 </div>
 <!-- markdownlint-enable -->
 
 ---
 
-# tem.
+# tem-energy ltd.
 
-⚡️ We are building the virtual utility platform for renewable energy! ⚡️
+⚡️ We've reinvented how energy is bought and sold. ⚡️
+
+Our AI transaction infrastructure helps businesses pay less and generators earn more.
+
+Take a look at our [mission](https://www.tem.energy/join-our-mission) to learn more about the problem we're solving.
 
 ## Interested?
 
-Check out our open positions on our [job board](https://tem-energy.notion.site/9cb96f7d5af14fd28c41ef056a87368b).
+Check out our open roles on our [careers page](https://www.tem.energy/join-our-mission#career).
