@@ -7,7 +7,7 @@
 
 # .github
 
-<!-- markdownlint-restore -->
+<!-- markdownlint-enable -->
 
 Community health files for the @tem-energy organization.
 
