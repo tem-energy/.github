@@ -23,6 +23,10 @@
 Portal PR: <todo>
 Control Room PR: <todo>
 
+**Schema changes:**
+- [ ] No database schema change
+- [ ] Schema change keeps the deployed code working (N-1): nothing it still reads or writes is dropped, renamed, retyped or made NOT NULL in this release ([policy](https://app.notion.com/p/411bb2774313815a92a0d6bd8d4fa71c))
+
 **Notes / Evidence (optional):**
 
 ## 📚 References
@@ -75,6 +79,9 @@ with a description of the testing steps performed.
 * investigate impact this change might have on other parts of the system.
 * if possible, make changes backward-compatible.
 * list impacted areas here.
+* Schema changes: tick one. Migrations run before the code deploys, so a change that drops,
+renames, retypes or adds NOT NULL to what the deployed code still uses ships as two releases
+(expand → migrate → contract). Policy: https://app.notion.com/p/411bb2774313815a92a0d6bd8d4fa71c
 
 ## 📚 References
 * Link to any supporting GitHub issues or Notion pages.
